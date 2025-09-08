@@ -1,5 +1,5 @@
 package lab1;
-
+// this is another comment to see if pulls works here as well
 /**
  * Solve the lab1.FizzBuzz challenge.
  */
